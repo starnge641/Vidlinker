@@ -59,7 +59,7 @@ function About() {
               img="ayush.jpg
             "
             />
-            <h3 className="text-lg font-bold mt-4">Ayush</h3>
+            <h3 className="text-lg font-bold mt-4">Pooja</h3>
             <p className="text-gray-500">Developer</p>
           </Card>
           <Card className="flex flex-col items-center min-w-[200px]">
@@ -69,7 +69,7 @@ function About() {
           </Card>
           <Card className="flex flex-col items-center min-w-[200px]">
             <Avatar size="lg" img="harshit.jpeg" />
-            <h3 className="text-lg font-bold mt-4">Harshit</h3>
+            <h3 className="text-lg font-bold mt-4">Pooja</h3>
             <p className="text-gray-500">App Tester</p>
           </Card>
         </div>
