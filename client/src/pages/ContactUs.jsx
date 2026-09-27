@@ -100,15 +100,15 @@ function ContactUs() {
           <div className="mt-6 space-y-4">
             <div className="flex items-center justify-center gap-3">
               <HiMail className="text-green-500 text-2xl" />
-              <p className="text-gray-600">ayushk8295@gmail.com</p>
+              <p className="text-gray-600">poojakaswan620@gmail.com</p>
             </div>
             <div className="flex items-center justify-center gap-3">
               <HiPhone className="text-green-500 text-2xl" />
-              <p className="text-gray-600">+91 9555345773</p>
+              <p className="text-gray-600">+91 9024284662</p>
             </div>
             <div className="flex items-center justify-center gap-3">
               <HiLocationMarker className="text-green-500 text-2xl" />
-              <p className="text-gray-600">Bangalore, India</p>
+              <p className="text-gray-600">Imphal , India</p>
             </div>
           </div>
         </Card>
