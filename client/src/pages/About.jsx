@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router";
-import { Avatar, Button, Card, List } from "flowbite-react";
+import { Card } from "flowbite-react";
 import { SiLinkfire } from "react-icons/si";
 function About() {
   return (
